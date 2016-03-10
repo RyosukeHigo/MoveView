@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\rubik_000\\AndroidStudioProjects\\MoveView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soroban.gif",
+        "source": "C:\\Users\\rubik_000\\AndroidStudioProjects\\MoveView1\\app\\src\\main\\res\\drawable\\soroban.gif"
+    },
+    {
+        "merged": "C:\\Users\\rubik_000\\AndroidStudioProjects\\MoveView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\rubik_000\\AndroidStudioProjects\\MoveView1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rubik_000\\AndroidStudioProjects\\MoveView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trump2.png",
+        "source": "C:\\Users\\rubik_000\\AndroidStudioProjects\\MoveView1\\app\\src\\main\\res\\drawable\\trump2.png"
+    },
+    {
+        "merged": "C:\\Users\\rubik_000\\AndroidStudioProjects\\MoveView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trump1.png",
+        "source": "C:\\Users\\rubik_000\\AndroidStudioProjects\\MoveView1\\app\\src\\main\\res\\drawable\\trump1.png"
+    }
+]
